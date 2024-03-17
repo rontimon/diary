@@ -4,6 +4,19 @@ Tervetuloa LongWay-sovellukseen! Tämä README.md sisältää kaiken tarvittavan
 
 ## Kuvakaappaukset
 
+<img width="1436" alt="Screenshot 2024-03-17 at 22 05 32" src="https://github.com/rontimon/diary/assets/122264249/a2ae9d59-f0aa-4c21-a6c6-325bc0501ada">
+
+<img width="1436" alt="Screenshot 2024-03-17 at 21 34 11" src="https://github.com/rontimon/diary/assets/122264249/697d421a-6c9d-45e8-b413-537460bdd3d9">
+
+<img width="1436" alt="Screenshot 2024-03-17 at 21 34 21" src="https://github.com/rontimon/diary/assets/122264249/f81d81f9-cb80-4a1f-b9c0-cccdfc950351">
+
+<img width="1436" alt="Screenshot 2024-03-17 at 21 34 30" src="https://github.com/rontimon/diary/assets/122264249/d70197a9-0937-4ecc-9c04-3760e5de01e0">
+
+<img width="1436" alt="Screenshot 2024-03-17 at 21 34 46" src="https://github.com/rontimon/diary/assets/122264249/23d43d1c-d5d2-4455-82a7-c66c853c4e56">
+
+<img width="1436" alt="Screenshot 2024-03-17 at 21 35 08" src="https://github.com/rontimon/diary/assets/122264249/ee86dc97-c252-40d4-a0ae-f7e0334720a3">
+
+<img width="1436" alt="Screenshot 2024-03-17 at 21 35 17" src="https://github.com/rontimon/diary/assets/122264249/d683680e-ec1a-497a-ad3e-d825357ce9f4">
 
 
 ## Linkit
