@@ -87,7 +87,7 @@ INSERT INTO HealthMetrics (user_id, measurement_date, blood_pressure_systolic, b
 
     -- Lisätään lääkintätietoja MedicationIntake taluun
 
-    INSERT INTO MedicationInTake (user_id, intake_date, medication_name, dosage) VALUES
+    INSERT INTO MedicationIntake (user_id, intake_date, medication_name, dosage) VALUES
 (1, '2024-01-10', 'Aspirin', '100mg'),
 (1, '2024-01-11', 'Vitamin D', '5000 IU'),
 (2, '2024-01-10', 'Ibuprofen', '200mg');
