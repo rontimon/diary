@@ -25,7 +25,6 @@ Tervetuloa LongWay-sovellukseen! Tämä README.md sisältää kaiken tarvittavan
 
 - **Front-end Sovellus**: [Linkki julkaistuun sovellukseen](#)
 - **Back-end Sovellus/API**: [Linkki käytössä olevaan back-end-sovellukseen/APIin](#)
-- **API Dokumentaatio**: [Linkki API-dokumentaatioon](#)
 
 ## Tietokannan Kuvaus
 
@@ -52,10 +51,8 @@ Toteutetut toiminnallisuudet sisältävät:
 
 ## Tiedossa Olevat Bugit/Ongelmat
 
-*Tässä osiossa mainitaan mahdolliset tiedossa olevat bugit tai ongelmat.*
+Sivua ei saatu julkaistua nettiin.
 
 ## Referenssit
-
-*Tässä osiossa mainitaan käytetyt tutoriaalit, grafiikkakirjastot ja muut referenssit.*
 
 - Sovelluksen tyylittelyssä ja logon suunnittelussa on käytetty apuna ChatGPT:tä
