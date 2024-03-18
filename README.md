@@ -36,6 +36,9 @@ Sovellus käyttää `HealthDiary` nimistä tietokantaa, joka sisältää seuraav
 - `TrainingDiary`: Treenipäiväkirja
 - ( diary_id, user_id, entry_date, mood, training_time, notes, goals ja created_at )
 
+- Tietokannan rakenne:
+<img width="807" alt="Screenshot 2024-03-18 at 16 23 58" src="https://github.com/rontimon/diary/assets/122264249/adb84e8e-0b8d-47d0-9055-56ec651218f3">
+
 
 ## Toiminnallisuudet
 
@@ -49,9 +52,6 @@ Toteutetut toiminnallisuudet sisältävät:
 6. **Aikaisemman päiväkirjamerkinnän poistaminen**
 7. **Uloskirjautuminen**
 
-## Tiedossa Olevat Bugit/Ongelmat
-
-Toiminnallisuuksia tuli loppupeleissä vähemmän kun alunperin oli suunnitteilla
 
 ## Referenssit
 
