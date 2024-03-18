@@ -24,7 +24,7 @@ Tervetuloa LongWay-sovellukseen! Tämä README.md sisältää kaiken tarvittavan
 ## Linkit
 
 - **Linkki Sovellukseen**: [Linkki sivulle](https://longway.northeurope.cloudapp.azure.com/index.html)
-- **Linkki BackEndiin**: (https://github.com/rontimon/diary/tree/LongWayBack/src)
+- **Linkki BackEndiin**: [Linkki repoon](https://github.com/rontimon/diary/tree/LongWayBack/src)
 
 ## Tietokannan Kuvaus
 
