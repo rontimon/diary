@@ -23,7 +23,7 @@ Tervetuloa LongWay-sovellukseen! Tämä README.md sisältää kaiken tarvittavan
 
 ## Linkit
 
-- **Front-end Sovellus**: [Linkki julkaistuun sovellukseen](#)
+- **Linkki Sovellukseen**: [Linkki sivulle](https://longway.northeurope.cloudapp.azure.com/index.html)
 - **Back-end Sovellus/API**: [Linkki käytössä olevaan back-end-sovellukseen/APIin](#)
 
 ## Tietokannan Kuvaus
@@ -51,7 +51,7 @@ Toteutetut toiminnallisuudet sisältävät:
 
 ## Tiedossa Olevat Bugit/Ongelmat
 
-Sivua ei saatu julkaistua nettiin.
+Toiminnallisuuksia tuli loppupeleissä vähemmän kun alunperin oli suunnitteilla
 
 ## Referenssit
 
